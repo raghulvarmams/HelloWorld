@@ -1,0 +1,14 @@
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\bin\Debug\net7.0\HelloWorldJenkinsGit.exe
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\bin\Debug\net7.0\HelloWorldJenkinsGit.deps.json
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\bin\Debug\net7.0\HelloWorldJenkinsGit.runtimeconfig.json
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\bin\Debug\net7.0\HelloWorldJenkinsGit.dll
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\bin\Debug\net7.0\HelloWorldJenkinsGit.pdb
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\HelloWorldJenkinsGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\HelloWorldJenkinsGit.AssemblyInfoInputs.cache
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\HelloWorldJenkinsGit.AssemblyInfo.cs
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\HelloWorldJenkinsGit.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\HelloWorldJenkinsGit.dll
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\refint\HelloWorldJenkinsGit.dll
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\HelloWorldJenkinsGit.pdb
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\HelloWorldJenkinsGit.genruntimeconfig.cache
+C:\Users\raghu\Source\Repos\raghulvarmams\HelloWorld\HelloWorldJenkinsGit\obj\Debug\net7.0\ref\HelloWorldJenkinsGit.dll
