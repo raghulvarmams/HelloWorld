@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HelloWorldJenkinsGit",
+    "\\HelloWorldJenkinsGit\\bin",
+    "\\HelloWorldJenkinsGit\\bin\\Debug",
+    "\\HelloWorldJenkinsGit\\bin\\Debug\\net7.0",
+    "\\HelloWorldJenkinsGit\\bin\\Release",
+    "\\HelloWorldJenkinsGit\\bin\\Release\\net7.0",
+    "\\HelloWorldJenkinsGit\\obj"
   ],
   "PreviewInSolutionExplorer": false
 }
