@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: dotnet build --no-restore
+      run: msbuild HelloWorldJenkinsGit.sln /t:project /p:Configuration="Release" /p:Platform="x86" /p:BuildProjectReferences=false
     - name: Test
       run: dotnet test --no-build --verbosity normal
