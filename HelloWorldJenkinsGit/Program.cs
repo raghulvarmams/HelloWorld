@@ -3,4 +3,5 @@
 Console.WriteLine("Enter User Name");
 string userName = Console.ReadLine();
 Console.WriteLine("Hello, " + userName);
+Console.WriteLine("Hello, trying with Git pipeline.");
 Console.ReadLine();
